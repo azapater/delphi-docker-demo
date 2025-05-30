@@ -56,7 +56,7 @@ docker run -d -p 8080:8080 -v $(pwd)/logs:/app/logs --name=delphi-demo delphi-do
 
 ## Docker Image
 
-The Docker image is available on DockerHub:
+The Docker image is available on [DockerHub](https://hub.docker.com/r/thony/delphi-docker-demo):
 ```bash
 docker pull thony/delphi-docker-demo:latest
 ```
